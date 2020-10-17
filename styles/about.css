@@ -21,16 +21,23 @@
 
 .dc{
   padding: 100px 100px;
+  font-size: 50px;
 
 }
 .divtitle {
-  color: blue;
+  color:rgba(0, 153, 255, 0.5);
   padding: 100pxpx;
-
+  margin-bottom:20px ;
 }
 .mab{
   padding-top: 100px;
 }
 .p{
-  color: brown;
+  color: rgba(47, 196, 255, 0.658);
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
