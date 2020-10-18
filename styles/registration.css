@@ -76,3 +76,11 @@ hr {
   background-color: white;
   text-align: center;
 }
+
+
+.form-control small {
+  visibility: hidden;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
